@@ -7,6 +7,8 @@
 
 # Based on an Eliza implementation by Joe Strout <joe@strout.net>,
 # Jeff Epler <jepler@inetnebr.com> and Jez Higgins <jez@jezuk.co.uk>.
+
+# Apenas a tradução foi feita aqui, este é baseado na ELIZA
 from __future__ import print_function
 
 import re

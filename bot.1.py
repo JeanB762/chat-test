@@ -1,4 +1,5 @@
 from nltk.chat.util import Chat, reflections
+#Script simples usando nltk para input e output de respostas
 pairs = [
     [
         r"meu nome e (.*)",
